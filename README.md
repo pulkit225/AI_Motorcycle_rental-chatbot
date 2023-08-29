@@ -1,1 +1,4 @@
 # AI_Motorcycle_rental-chatbot
+
+The project aims to develop a chatbot system for a motorcycle rental company that can provide an efficient and user-friendly experience to its customers. The system will use AI-based algorithms and Natural Language Processing (NLP) techniques to understand customer queries and provide relevant responses, such as availability and contact details. The chatbot system will also be capable of handling customer requests for additionaldetails such as the timings of the shop. The project will involve the design and development of the chatbot system, training the AI algorithms using relevant data, and 
+evaluating the system's performance based on response time, and customer satisfaction. the project aims to improve the rental company's customer experience, increase efficiency, and reduce costs associated with customer service.
